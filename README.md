@@ -30,7 +30,7 @@ A RESTful API for managing flight bookings, users, and reservations, built with 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flight-booking-api.git
+git clone https://github.com/mohammadalwaenes/flight-booking-api.git
 cd flight-booking-api
 ```
 
@@ -130,17 +130,6 @@ You can test endpoints using:
 
 ---
 
-## 📌 Notes
-
-* This project was migrated and upgraded from an older Laravel version.
-* Authentication system was simplified (removed Passport).
-* Focused on clean backend API design.
-
----
-
-## 👨‍💻 Author
-
-Mohammad
 
 ---
 
@@ -148,8 +137,7 @@ Mohammad
 
 Give it a star on GitHub ⭐
 
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
 ## License
 
